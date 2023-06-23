@@ -65,9 +65,9 @@ class ImageSearch extends React.Component {
                   />
                 </>
               ))}
-              <div className="d-flex justify-content-center">
+              {/* <div className="d-flex justify-content-center">
                 <button className="search">Load More</button>
-              </div>
+              </div> */}
             </div>
           )}
         </div>
